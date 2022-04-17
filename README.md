@@ -10,7 +10,7 @@ Next been list
 ---  
 let str ='This is a code';  
 ---  
-[This is a link] https://google.com
+[This is a link] (https://google.com)
 
 
    
