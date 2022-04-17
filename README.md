@@ -11,7 +11,7 @@ Next been list
 let str ='This is a code';  
 ```    
 [This is a link](https://google.com)  
-![This a image](https://docs.microsoft.com/ru-ru/windows/apps/design/controls/images/image-licorice.jpg)
+
 
 
    
