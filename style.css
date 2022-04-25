@@ -1,0 +1,14 @@
+ul {
+	width: 250px;
+	list-style: none;
+	font-size: 25px;
+	font-weight: 600;
+	border: 3px solid black;
+	border-radius: 20px;
+	padding-right: 45px;
+	margin-left: 580px;
+}
+body{
+	text-align: center;
+	background-color: #d7c0bb
+}
